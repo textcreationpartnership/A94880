@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the horrid conspiracy against the life of His Sacred Majesty William III. King of England, Scotland, France and Ireland, &amp;c. setting forth by how it was contrived; how it was to be carried on; and the manner of its discovery. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94880</idno>
+            <idno type="STC">Wing T2374A</idno>
+            <idno type="STC">ESTC R230441</idno>
+            <idno type="EEBO-CITATION">99899485</idno>
+            <idno type="PROQUEST">99899485</idno>
+            <idno type="VID">153672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the horrid conspiracy against the life of His Sacred Majesty William III. King of England, Scotland, France and Ireland, &amp;c. setting forth by how it was contrived; how it was to be carried on; and the manner of its discovery. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 1, 4-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Brent at the Hercules-Pillars in Essex-street, for Jacob Milner; and are to be sold at his shop over against the end of Essex-Bridge,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Conspiracy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153672:1" rendition="simple:additions"/>
+            <pb facs="tcp:153672:2"/>
+            <pb facs="tcp:153672:2" rendition="simple:additions"/>
+            <p>A TRUE ACCOUNT OF THE HORRID CONSPIRACY AGAINST The LIFE of His Sacred MAJESTY WILLIAM III. KING of England, Scotland, France and Ireland, &amp;c.</p>
+            <p>Setting forth how it was Contrived; How it was to be carried on; And the manner of its DISCOVERY.</p>
+            <p>
+               <hi>Publiſhed By Authority.</hi>
+            </p>
+            <p>DUBLIN,</p>
+            <p>Printed by <hi>John Brent</hi> at the <hi>Hercules-Pillars</hi> in <hi>Eſſex-ſtreet,</hi> for <hi>Jacob Milner;</hi> and are to be Sold at his Shop over againſt the End of <hi>Eſſex-Bridge.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:153672:3"/>
+            <pb n="1" facs="tcp:153672:3"/>
+            <head>A TRUE ACCOUNT OF THE HORRID CONSPIRACY AGAINST The LIFE of His Sacred MAJESTY WILLIAM III. KING of England, Scotland, France and Ireland, &amp;c.</head>
+            <p>SOme of the Miniſters in the Higheſt Employments, and of the Greateſt Credit in the French Court, having formed a deſign to Aſſaſſinate his Majeſty of <hi>Great Britain,</hi> they made choice of one <hi>Bartholomew de Liniere,</hi> Kt. Sieur <hi>de Grandval,</hi> as their Inſtrument to manage the Enterprize, to find out perſons fit to be employ'd in it, to engage them by promiſes of great Rewards; as alſo to be aiding and aſſiſting in his own perſon.</p>
+            <p>The ſaid <hi>Grandval</hi> being informed, that one <hi>Anthony Du Mont</hi> had already been en<g ref="char:EOLhyphen"/>gaged in this Deſign, in the Life-time of the late Marquiſs of <hi>Louvois,</hi> he propoſed it to him again, to execute the ſame, by Order of the Marquiſs of <hi>Barbeſieux,</hi> and ſome others. Whereupon ſeveral Projects were drawn up, ſeveral Petitions delivered, and many Conferences were held, and at laſt the reſolution was taken to bring it to effect the laſt Campagne 1691. But the Providence of God having diſappointed them, yet notwithſtanding they did not let fall the proſecution of their horrid deſign. But <hi>Grandval</hi> was employ'd to write frequently to <hi>Du Mont</hi> (who was retired to <hi>Hanouer,</hi>) to ſtir him up to another Attempt this Campagne, which at at laſt they agreed upon.</p>
+            <p>One <hi>Leefdale</hi> coming to <hi>Paris</hi> about that time, <hi>Grandvall</hi> making an acquaintance with him diſcovered to him the ſaid Deſign, which <hi>Leefdale</hi> ſhewed a willingneſs to be concerned in; but ſoon after gave notice of it by Letters to his Relations in <hi>Holland,</hi> that they might inform his Majeſty. And the like diſcovery was made by <hi>Du Mont</hi> to his Highneſs the Duke of <hi>Z<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> who acquainted his Majeſty with it about the ſame time that he received the other account.</p>
+            <p>In the mean time <hi>Grandval</hi> having appointed <hi>Du Mont</hi> a Rendezvous at <hi>Vden</hi> in the Countrey of <hi>Ravesteyn,</hi> he ſet out from <hi>Paris</hi> in company with <hi>Leefdale,</hi> paſſing through <hi>Bruſſels,</hi> where he communicated his deſign to one <hi>John d'Amours,</hi> who was formerly a Domeſtick Servant to <hi>Leefdale</hi>'s Father. From thence they went to <hi>Ant<g ref="char:EOLhyphen"/>werp,</hi> and ſo to <hi>Eyndhoven,</hi> where <hi>Grandval</hi> was ſeized, and carried to <hi>Bois le Duc.</hi>
+            </p>
+            <pb n="4" facs="tcp:153672:4"/>
+            <p>His Majeſty directing the Examinations to be taken there, <hi>Leefdale</hi> was firſt ex<g ref="char:EOLhyphen"/>amined, who declared with great exactneſs, all the circumſtances of the Conſpiracy. But it is not neceſſary to mention more of them here, then that <hi>Grandval</hi> told him, The King of <hi>Great Britain</hi> was look'd upon as the only Obſtacle to the French King's Deſigns. That <hi>Grandval</hi> had ſend to <hi>Du Mont</hi> laſt Winter above 200 Piſtols, to keep him firm to the buſineſs; and that he ſent him ten Ducats from <hi>Bruſſels</hi> by Bill of Exchange. That whilſt they were at <hi>Mons,</hi> a Report being ſpread of ſome diſorders in <hi>Scotland,</hi> which would oblige his Majeſty to croſs the Sea again: <hi>Grandval</hi> fearing it might happen before he could execute his deſign, ſpoke to <hi>Leefdale</hi> in theſe words: Dear Friend, we are like to loſe our Fortunes: I beg of you that we may go away immediately.</p>
+            <p>
+               <hi>John d'Amours</hi> being next examined, depoſed, That <hi>Grandval</hi> told him at <hi>Bruſsels,</hi> He had a great buſineſs to do, which had miſcarried the laſt year. And they two falling into a diſcourſe about his Majeſty, <hi>John d'Amours</hi> ask'd <hi>Grandval,</hi> if he had any thing to ſay to the King? Yes, anſwered he, To break his Neck. <hi>John d'Amours</hi> re<g ref="char:EOLhyphen"/>preſenting to him the difficulties that might attend ſuch an attempt; <hi>Grandval</hi> re<g ref="char:EOLhyphen"/>ply'd, I have given my word to Monſieur <hi>Barbeſieux,</hi> and I'll do it. <hi>D'Amours</hi> adds further, That going one day with <hi>Grandval</hi> and <hi>Leefdale</hi> by the <hi>Jeſuits</hi> Church at <hi>Bruſ<g ref="char:EOLhyphen"/>ſels, Grandval</hi> ſaid, Let us go in and ſay a <hi>Pater noſter,</hi> that God would bleſs our Un<g ref="char:EOLhyphen"/>dertaking: And accordingly they went into the Church.</p>
+            <p>
+               <hi>Du Mont</hi> having been examined ſince, has own'd the Fact in all its circumſtances; adding ſeveral other particulars, <hi>viz.</hi> That Madam <hi>Maintenon</hi> was acquainted with the deſign; and that <hi>Grandval,</hi> in one of his Letters ſent to him, uſed this expreſſion, That he would accommodate the Matter by the means of Madam <hi>Maintenon.</hi> That <hi>Grandval</hi> told him, the Buſineſs ſucceeding, he (ſpeaking of himſelf,) ſhould have an ample Recompence, even to be a Duke. That whilſt he was at <hi>Hanouer</hi> he imparted the deſign to Monſieur <hi>Bedal,</hi> alias <hi>Hasfelt,</hi> who was at that time the French King's Miniſter in that Court; That he ſhewed to the ſaid Monſieur <hi>Bedal</hi> all the Letters he writ to Monſieur <hi>Barbeſieux</hi> and <hi>Grandval,</hi> as alſo the Anſwers he received from them, That the ſaid <hi>Bedal</hi> approved the deſign, ſaying, It would be a very good buſineſs, if it could be brought to paſs; and that <hi>Bedal</hi> lent him fifty Crowns at <hi>Hanouer. Du Mont</hi> adds further, That he was intimately acquainted with one <hi>Miller,</hi> an Agent for <hi>Bedal;</hi> that tho ſaid <hi>Miller</hi> told him, as a great Secret, That <hi>Bedal</hi> had ſent him ſeve<g ref="char:EOLhyphen"/>ral times to <hi>Holland</hi> with Diſpatches, that came from <hi>France,</hi> for Monſieur <hi>Moreau,</hi> Envoy to the King of <hi>Poland;</hi> that he always gave thoſe Pacquets into Monſieur <hi>Moreau</hi>'s own hand, and Monſieur <hi>Moreau</hi> gave him the Anſwers to them in like man<g ref="char:EOLhyphen"/>ner. And that by the help of Monſieur <hi>Bedal,</hi> and Monſieur <hi>Moreau,</hi> the Court of <hi>France</hi> managed their choiceſt Correſpondence in <hi>Holland.</hi>
+            </p>
+            <p>At laſt <hi>Grandval</hi> was Examined, who perceiving that the matter was diſcovered, and that his own Letters could be produced to convict him, he ingenuouſly confeſſed all the circumſtances of the deſign, as they are particularized in the Sentence.</p>
+            <p>After which, <hi>Grandval</hi> being brought to the Army, he was put upon his Trial be<g ref="char:EOLhyphen"/>fore a Grand Court Martial, conſiſting of General Officers, where he appeared ſeveral times, together with the Witneſſes above-mentioned, who not only perſiſted in what they had already depoſed, but added many other Particulars and Circumſtances, of which there were very few that <hi>Grandvall</hi> did not agree to, and that freely, without ſo much as naming the Rack to him, either before or after Sentence.</p>
+            <p>
+               <hi>Grandvall,</hi> during his Impriſonment, drew up two Petitions to be preſented to His Majeſty, all written with his own Hand; in which he ſays, That as to the before-mentioned Deſign, He acted in it but in obedience to the Orders he had received from Monſieur <hi>Barbeſieux</hi> and Monſieur <hi>Chanlais;</hi> That <hi>Du Mont</hi> was Guilty; That <hi>Leefdale</hi> was Guilty; And that he <hi>(Grandvall)</hi> was Guilty, ſince every one that Conſpires againſt a Crown'd Head, is worthy of Death, acknowledging his own Fault.</p>
+            <pb n="5" facs="tcp:153672:4"/>
+            <p>The Judges after this, having met ſeveral times, at laſt gave this Sentence, which is here inſerted word for word.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="sentence">
+                        <p>VVHereas <hi>Bartholomew de Liniere,</hi> Knight, Sieur <hi>de Grandvall,</hi> Born at <hi>Liniere</hi> in <hi>Picardy,</hi> aged about Forty Three years, and now a Priſoner, hath con<g ref="char:EOLhyphen"/>feſſed before the Grand Court-Martial, without any Conſtraint by Plain, or being in Irons; and it further appearing to the ſaid Court-Martial, That the late Marquis <hi>de Louvcis,</hi> in his Life-time, Secretary of State to the French King, in the year 1691. entered into an Agreement with one <hi>Anthony Du Mont,</hi> about the Murther of his Ma<g ref="char:EOLhyphen"/>jeſty, <hi>William</hi> the III, King of <hi>Great Britain, &amp;c.</hi> and that the ſaid <hi>Du Mont</hi> had fra<g ref="char:EOLhyphen"/>med a Project, ſetting forth in what manner that Deſign might be Executed; that he delivered the ſaid Project to the ſaid Marquis of <hi>Louvois;</hi> That the Priſoner, ſome time before the Marquis of <hi>Louvois</hi>'s Death, asking his leave to go ſomewhere elſe, was ordered by the ſaid Marquis not to go away, for that he had ſome Buſineſs of Conſequence to employ him in, which the Priſoner-ſuppoſes to have ſome Relation to the ſaid Deſign; but the Marquis of <hi>Louvois</hi> dying ſome time after, there was no further Progreſs then made in the ſaid Deſign.</p>
+                        <p>That the Marquis of <hi>Barbeſieux,</hi> Son to the ſaid Marquis of <hi>Louvois,</hi> as alſo Secre<g ref="char:EOLhyphen"/>tary of State to the French King, having five days after his Fathers death found the ſaid Project, together with a Warrant for Thirty Piſtols to be paid to the ſaid <hi>Du Mont,</hi> among his Fathers Papers; the ſaid Deſign was revived again, and the thirty Piſtols were paid accordingly. That the Priſoner contracted an Acquaintance with <hi>Du Mont</hi> at Monſieur <hi>Rabenac</hi>'s Houſe, where Monſieur <hi>Paparell,</hi> Pay-Maſter General to the French Kings Armies, ſaying one day to Monſieur <hi>Rabenac,</hi> (the Priſoner being pre<g ref="char:EOLhyphen"/>ſent) That if they had a mind to ſeize the King of <hi>England, Du Mont</hi> would be a fit Perſon for it; <hi>Du Mont</hi> reply'd with Execrations, That he would carry off his Majeſty alive or dead, as he had promiſed to Monſieur <hi>de Louvois.</hi>
+                        </p>
+                        <p>That <hi>Du Mont</hi> having delivered the ſame or the like Project to Monſieur <hi>de Barbeſieux,</hi> the Priſoner to promote the ſaid Deſign, had ſeveral Conferences with Monſieur <hi>Bar<g ref="char:EOLhyphen"/>beſieux</hi> and Monſieur <hi>Paparell,</hi> in one of which, Monſieur <hi>Barbeſieux</hi> told the Priſoner, That he ſuſpected his Father was Poiſoned by Order of the Prince of <hi>Orange,</hi> (mean<g ref="char:EOLhyphen"/>ing his preſent Majeſty of <hi>Great Britain</hi>) and therefore he would be Revenged of him: That Monſieur <hi>Barbeſieux</hi> told the Priſoner in another Conference, That he ſhould give <hi>Du Mont</hi> notice, that his Majeſty of Great <hi>Britain</hi> wore a Coat of Mail, which the priſoner acquainting <hi>Du Mont</hi> with, he anſwer'd thereupon, It is no matter, I'll kill him for all that: That <hi>Barbeſieux</hi> had ſaid further, He would not ſpeak himſelf with <hi>Du Mont,</hi> fearing he might be taken Priſoner; and if he ſhould happen then to Name him, it might make a great Breach in his Fortune.</p>
+                        <p>That the Priſoner was engaged with one <hi>Parker,</hi> a Colonel belonging to the late King <hi>James,</hi> to put the ſaid Deſign in Execution; and that <hi>Parker</hi> had told him, He had for<g ref="char:EOLhyphen"/>med the ſaid Deſign with the late Marquis of <hi>Louvois.</hi>
+                        </p>
+                        <p>That at laſt, the Priſoner, with the ſaid <hi>Barbeſieux, Paparell, Parker</hi> and <hi>Du Mont,</hi> agreed upon the manner of Executing the ſaid Deſign, <hi>viz.</hi> That the Priſoner and <hi>Parker,</hi> ſhould meet at the Grand Guard of the Duke of <hi>Luxemburg</hi>'s Army, where they were to have 1500 Horſe: That <hi>Du Mont</hi> ſhould go to the King of <hi>England</hi>'s Army, and watch the time when his Majeſty went to viſit the Grand Guard; and at the ſame time he was to ſhoot his Majeſty; that the Priſoner and <hi>Parker,</hi> with 1500 Horſe, were to reſcue and bring him off, the ſaid <hi>Du Mont</hi> giving timely notice to the Priſoner of the intended Execution. That <hi>Barbeſieux</hi> giving the Priſoner Orders to ac<g ref="char:EOLhyphen"/>company <hi>Du Mont</hi> to <hi>Menin,</hi> he gave him at the ſame time an Order to the Duke of <hi>Luxemburg</hi> for furniſhing the Priſoner with ſuch a Detachment of Horſe as he ſhould require, and think neceſſary for the Deſign.</p>
+                        <p>That the Priſoner by Monſieur <hi>Barbeſieux</hi>'s Order, Receiv'd of Monſieur <hi>Paparell</hi> 80 <hi>Lewis d'Or;</hi> and in purſuance of Monſieur <hi>Barbeſieux</hi>'s Directions, he gave to <hi>Du Mont</hi> 55 <hi>Lewis d'Or</hi> out of that Summ, <hi>viz.</hi> fifteen Piſtols in Specie, and a Bill of
+<pb n="6" facs="tcp:153672:5"/>Exchange for 460 Livres French Money, to be paid at <hi>Ghent;</hi> that the Priſoner ac<g ref="char:EOLhyphen"/>cordingly left <hi>Paris</hi> the 11th of <hi>September</hi> 1691, and went Poſt with <hi>Da Mont</hi> to <hi>Me<g ref="char:EOLhyphen"/>nin;</hi> That he defray'd the whole Charge of the Journey; that <hi>Du Mont</hi> acquainted him on the way, That Monſieur <hi>Barbeſieux</hi> had promiſed him an annual Revenue of 20000 Livres, and to make him a Knight of the Order of St. <hi>Lazarus,</hi> in caſe the de<g ref="char:EOLhyphen"/>ſign took effect: That the Priſoner coming to <hi>Menin,</hi> went to the Governour, Mon<g ref="char:EOLhyphen"/>ſieur <hi>Pertuis,</hi> as he had been directed by Monſieur <hi>Barbeſieux,</hi> and obtained of him a Paſsport for <hi>Du Mont,</hi> who parted immediately for <hi>Ghent,</hi> promiſing the priſoner, that according to their agreement, he would ſend to him at the Grand Guard; that the Priſoner thereupon went to the Duke of <hi>Luxemburg</hi>'s Army, and he and <hi>Parker</hi> con<g ref="char:EOLhyphen"/>tinued at the Head of the Grand Guard till the day before the Rencounter at <hi>Leuza,</hi> without hearing from <hi>Du Mont.</hi>
+                        </p>
+                        <p>That <hi>Du Mont</hi> going to <hi>Hanouer.</hi> the Priſoner had kept a conſtant Correſpondence with him about executing the ſame design at ſome other opportunity; that the Pri<g ref="char:EOLhyphen"/>ſoner communicated what Letters he receiv'd from <hi>Du Mont</hi> to Monsieur <hi>Barbeſieux,</hi> who gave him directions what Anſwers he ſhould return; That the Priſoner reſol<g ref="char:EOLhyphen"/>ved with Monsieur <hi>Barbeſieux,</hi> that the design ſhould be Executed this Campagne, <hi>Anno</hi> 1692, which had failed the laſt; That the Priſoner had taken ſome meaſures concerning the ſame with Monsieur <hi>Chanlais,</hi> Quarter-maſter-General to the French King.</p>
+                        <p>In the mean time, one <hi>Frederick Aelbreyt, Leefdale,</hi> heretofore Captain Lieutenant of a Troop of Dragoons in the Service of the High and Mighty States General of the United Provinces coming to <hi>Paris,</hi> was brought acquainted with the Priſoner by the means of one <hi>Sterck;</hi> That the Priſoner having contracted an infinite familiarity with the ſaid <hi>Leefdale,</hi> diſcover'd the ſaid design to him towards the latter end of <hi>March</hi> laſt 1692, telling him, That an Officer who would Ingratiate himſelf in the King's Favour, muſt venture at ſomething of Conſequence; That he, the Priſoner, had concerted the Execution of a Deſign upon which his Fortune depended; That it was indeed a matter without hazard; but the greater the difficulties were, the more would be the Honour, encouraging <hi>Leefdale</hi> to be concerned in it; and the ſaid <hi>Leefdale</hi> ſhewing a readineſs to comply with him, the priſoner open'd himſelf with greater freedom, and told him, That he was engaged laſt Campagne with one <hi>Du Mont</hi> to Aſſaſſinate the King of <hi>Great Britain,</hi> but it had no Effect, by reaſon of his Majeſty's leaving the Army ſo ſoon; but it was reſolved again to put the ſame in ex<g ref="char:EOLhyphen"/>ecution this year: That <hi>Du Mont</hi> by many repeated Oaths, had ſworn he would do it; yet, he the priſoner feared, that if he were not preſent, <hi>Du Mont</hi> would not ſo ex<g ref="char:EOLhyphen"/>actly obſerve his Orders, and therefore he was reſolved to go along with <hi>Du Mont,</hi> asking <hi>Leefdale,</hi> If he would be of the party? who anſwering, That he would, the priſoner diſcourſed to him at large of all particulars concerning the Deſign, and af<g ref="char:EOLhyphen"/>terwards brought him to Monſieur <hi>Barbeſieux</hi> and <hi>Chanlais.</hi>
+                        </p>
+                        <p>That <hi>Chanlais</hi> in one of the Conferences held upon that Subject, told <hi>Leefdale,</hi> the priſoner being by, That a great Reward ſhould be given him, the Buſineſs ſucceeding; That <hi>Barbeſieux</hi> and <hi>Paparel</hi> had both of them knowledge of the promiſed Rewards.</p>
+                        <p>That he the priſoner, with the ſaid <hi>Leefdale</hi> and Colonel <hi>Parker,</hi> went to St. <hi>Ger<g ref="char:EOLhyphen"/>mains</hi> on the 16th of <hi>April</hi> 1692, to ſpeak with the late King <hi>James</hi> about the ſaid de<g ref="char:EOLhyphen"/>ſign, who had knowledge of it, and to take leave of him before they began their jour<g ref="char:EOLhyphen"/>ney; That the priſoner had Audience at the ſame time of the ſaid King <hi>James,</hi> the late Queen being preſent; King <hi>James</hi> telling him, <hi>Parker</hi> has given me an Account of the Buſineſs; If You and the other Officers do me this Service, you ſhall never want. And <hi>Parker,</hi> the priſoner, and <hi>Leefdale</hi> entred into a diſcourſe about this deſign.</p>
+                        <p>That <hi>Du Mon</hi>'s Wife delivered to Monſieur <hi>Barbeſieux</hi> ſeveral Letters, which ſhe received from her Husband whilſt he was at <hi>Hanouer,</hi> and the priſoner continuing his Correſpondence with him all the ſaid time, he engaged <hi>du Mont</hi> by Letters, eſpe<g ref="char:EOLhyphen"/>cially thoſe dated the 20th and 25th of <hi>April,</hi> and the 12th of <hi>May</hi> laſt, to come from <hi>Hanouer</hi> to a Rendezvous at <hi>Uden</hi> in the Countrey of <hi>Raveſteyn,</hi> in order to take a final Reſolution with the ſaid priſoner and <hi>Leefdale</hi> concerning the manner of exe<g ref="char:EOLhyphen"/>cuting
+<pb n="7" facs="tcp:153672:5"/>their Deſign: the Priſoner preſſing <hi>Du Mont</hi> to haſten his Journey, for fear the King of <hi>England</hi> ſhould have occaſion to re-paſs the Sea; the Priſoner adding withal, That he ſhould be mad if he failed in his Buſineſs.</p>
+                        <p>That the Priſoner, with <hi>Chanlais</hi> and <hi>Leefdale,</hi> were agreed in what manner the Aſ<g ref="char:EOLhyphen"/>ſaſſinate ſhould be committed on the Perſon of His Majeſty, <hi>viz.</hi> That when the King ſhould ride along the Lines, or ſhould go out to take any View, or when the Army ſhould decamp, that <hi>Du Mont</hi> ſhould lie in Ambuſcade, and when His Majeſty ſhould paſs within 100 Paces of him, he ſhould then fire upon the King; That <hi>Chanlais</hi> (to whom notice was to be given before of the time) ſhould be with 3000 Horſe at the Duke of <hi>Luxemburg</hi>'s Grand Guard; That the Priſoner had told <hi>Leefdale,</hi> There would be no danger for him, ſince <hi>Du Mont</hi> had a Secret to charm Peoples Eyes, and at all Adven<g ref="char:EOLhyphen"/>tures they two would keep with thoſe who followed the King; and when every body was purſuing after <hi>Du Mont,</hi> they ſhould have time to eſcape and ſave themſelves, and carry the Account to Monſieur <hi>Chanlais;</hi> and it little concern'd them whether <hi>Du Mont</hi> ſhould be taken or not, provided they could eſcape themſelves; That the Priſoner and <hi>Leefdale</hi> received their laſt Orders from <hi>Chanlais,</hi> who told them he was going to <hi>Mons,</hi> and that they ſhould ſtay for him there.</p>
+                        <p>That the Priſoner and <hi>Leefdale</hi> went from <hi>Paris</hi> the 17th of <hi>April</hi> laſt, and arrived a few days after at <hi>Mons,</hi> having waited ſome time for Monſieur <hi>Chanlais</hi>'s arrival; and finding he did not come, they reſolved to go forward to the Rendezvous by the way of <hi>Bruſsels;</hi> That the Priſoner, as they were travelling on the way, told <hi>Leefdale,</hi> That their Deſign taking place, the Alliance among the Confederate Princes would be bro<g ref="char:EOLhyphen"/>ken; That the Princes concerned would each of them re-call their Troops, and the Countrey being thereby left without Soldiers, the King of <hi>Frace</hi> would eaſily make himſelf Maſter of it, and King <hi>James</hi> would be Reſtored again.</p>
+                        <p>That the Priſoner with <hi>Leefdale,</hi> went to the Mayery of <hi>Boiſleduc,</hi> and was appre<g ref="char:EOLhyphen"/>hended at <hi>Eyndhoven.</hi>
+                        </p>
+                        <p>And whereas this Horrid Deſign is contrary to the Laws of God, of Nature, and of all Nations, and ought for the deterring of others from the like Machinations, to be pu<g ref="char:EOLhyphen"/>niſhed with the greateſt Rigour: The ſaid Court-Martial, having with mature deli<g ref="char:EOLhyphen"/>beration Examined and Conſidered the whole matter, have thought fit to Judge and Declare, as they do hereby Declare, The Priſoner to be Guilty of High-Treaſon, and do Condemn him to be Drawn on a Sledge to the place of Execution, there to be Han<g ref="char:EOLhyphen"/>ged on a Gallows; To be cut down before he be Dead; His body to be opened, and his Bowels to be taken out and burnt; His Head to be ſet upon a Pole; His Body to be Quartered; And the four Quarters to be hung up where his Majeſty ſhall think fit. And do further declare all his Eſtate to be Confiſcated, and Condemn him to bear the Char<g ref="char:EOLhyphen"/>ges and Coſt of this Trial. Given and pronounced in the Head-Quarters of the Army under the Command of His Majeſty of <hi>Great Britain,</hi> by the Earl of <hi>Athlone,</hi> General of the Horſe, Preſident; the Lieutenant-General <hi>Van Scravenmore,</hi> and Lieutenant-General <hi>Talmaſh;</hi> the Marquis <hi>de la Foreſt,</hi> the Heer <hi>Var Weed,</hi> Count <hi>Noyelles,</hi> and the Heer <hi>Zobel,</hi> Majors General, and the Brigadiers <hi>Churchil</hi> and <hi>Ramſey; Cornelius Van Wou,</hi> and <hi>Richard Vthwayt,</hi> Judges Advocates, Aſſiſting at <hi>Limbeck,</hi> the 11th of <hi>Auguſt,</hi> 1692.</p>
+                        <closer>
+                           <signed>Signed, <hi>ATHLONE.</hi>
+                           </signed> 
+And Lower, By Order of the Court-Martial, 
+<signed>Thomas Du Val.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="8" facs="tcp:153672:6"/>
+            <p>In purſuance of the Sentence above-mentioned, the Chevalier <hi>de Grandvall</hi> was Exe<g ref="char:EOLhyphen"/>cuted in the Camp on the 13 of <hi>Auguſt</hi> 1692. All that he ſaid at the place of Execu<g ref="char:EOLhyphen"/>tion, was, to recommend himſelf to the Prayers of thoſe that were preſent: But the ſame morning before he went to Execution, he writ this following Letter.</p>
+            <floatingText type="letter">
+               <body>
+                  <div xml:lang="fre" type="version">
+                     <opener>
+                        <dateline>Du Camp de Hall, <date>ce 13 Aout, 1692.</date>
+                        </dateline>
+                        <salute>Madamoiſelle,</salute>
+                     </opener>
+                     <p>JE Vous prie d'aller trouver Monſieur l'Archevéque de Rheims, avec Monſieur Jourduil, &amp; faire connître au dit Seigneur Archevéque, qu'il m'en couste la vie, pour avoir obey aux Or<g ref="char:EOLhyphen"/>dres de Monſieur de Barbeſieux; C'eſt la grace que vous demande votre ſervi<g ref="char:EOLhyphen"/>teur,</p>
+                     <closer>
+                        <signed>De Grandval.</signed>
+
+                        <salute>A Madamoiſelle Juré, rue Trevelle, vis à vis de la rue des deux Eſcus, prés de l'Hoſtel de Soiſſons, à Paris.</salute>
+                     </closer>
+                     <postscript>
+                        <p>Voyez Monſieur le Marquis d'Arſy, qu'il contribue à faire prier Dieu pour moy.</p>
+                     </postscript>
+                  </div>
+                  <div xml:lang="eng" type="version">
+                     <opener>
+                        <dateline>From the Camp at Hall, <date>Aug. <hi>13. 1692.</hi>
+                           </date>
+                        </dateline>
+                        <salute>Madam,</salute>
+                     </opener>
+                     <p>I Pray you to go to the Archbiſhop of <hi>Rheims,</hi> with Monſieur <hi>Jour<g ref="char:EOLhyphen"/>duil,</hi> and to let the ſaid Archbiſhop know, That it coſts me my Life for having obey'd the Orders of Mon<g ref="char:EOLhyphen"/>ſieur <hi>de Barbeſieux;</hi> which is the Fa<g ref="char:EOLhyphen"/>vour deſired of you by your Servant</p>
+                     <closer>
+                        <signed>De Grandval,</signed>
+                     </closer>
+                     <postscript>
+                        <p>Speak to the Marquis <hi>d'Arſy,</hi> That he take care I be pray'd for.</p>
+                     </postscript>
+                     <trailer>To Madam <hi>Juré</hi> in the <hi>Trevelle-ſtreet,</hi> over againſt the Street of the <hi>Two Crowns,</hi> near the <hi>Hoſtel</hi> of <hi>Soiſſons</hi> at <hi>Paris.</hi>
+                     </trailer>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Upon the Occaſion of this Letter, it willl not be improper to take notice of a Paſ<g ref="char:EOLhyphen"/>ſage that happened ſome days before <hi>Grandvall</hi>'s Condemnation, ſince it has ſo great an Agreement with the ſaid Letter, and may ſerve to explain it, if it needed any clear Light, which is as follows.</p>
+            <p>One diſcoursing with the Chevalier <hi>Grandvall</hi> in Priſon, and obſerving he ſought to juſtify himſelf upon the Orders he had received from the Marquiſs of <hi>Barbeſieux,</hi> he told him, Though that was in it ſelf a very weak Excuſe for being engaged in a baſe Action, yet ſtill it might prove ſo much the worſe, as that it was like enough Monsieur <hi>Barbeſieux</hi> would diſown that he gave any ſuch Orders, or that he was any ways concerned with him in a Busineſs of this Nature. To which <hi>Grandvall</hi> reply'd, Let him deny what he pleaſes, yet if I were put upon it, I would make it appear very plain; for I have an Original Paper under Monsieur <hi>Barbeſieux</hi>'s own hand, which I have lodged with a Friend of mine, who will not part with it to any one but my ſelf, and no body elſe knows with whom I have entruſted it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153672:6" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
